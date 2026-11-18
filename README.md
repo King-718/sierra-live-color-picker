@@ -1,6 +1,6 @@
 # Live Color Picker for Sierra Chart
 
-Live colour wheel for chart backgrounds, candles, grids, text and scales.
+Live colour wheel for chart backgrounds - Only works on Background of the chart - drop down is there for future editions. 
 
 **Download:** [LiveColorPicker-v0.1.zip](https://github.com/King-718/sierra-live-color-picker/releases/download/v0.1/LiveColorPicker-v0.1.zip)
 
